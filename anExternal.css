@@ -1,0 +1,33 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    margin-bottom: 50px;
+    font-size: 400%;
+    float:left;
+}
+h2
+{
+    color: purple;
+    font-family: verdana;
+    margin-bottom: 50xp;
+    font-size: 400%;
+    float:right;
+}
+p {
+    color: red;
+    border: 3px solid #000000;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 50px;
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    margin: 200px;
+}
+
+i {
+	margin-top: 20px;
+}
